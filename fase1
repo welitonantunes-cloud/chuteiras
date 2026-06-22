@@ -45,8 +45,17 @@
        function botaoClicado() {
        consol.log("fui clicado");
        let texto = botao.queySelector("span");
-       ("span");
-       text.textconcent++;
+       if (curtiu === "false") {
+          texto.textContent++;
+          curtiu = true;
+        }else {
+        texto.textContwnt--;
+        curtiu = false
+       }   
+
+
+      }
+       
     
     
       }
