@@ -1,9 +1,11 @@
+<h1> Minha Primeira modificacao</h1>
+<p>Vou compartilhar conhcimentos de como modificar a sua chuteira</p>
 !DOCTYPE html>
 <html lang= ”pt”
 <head>
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>lojas online de chuteiras</title>
+    <title>lojas online de chuteiras </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -19,72 +21,4 @@
     <p>Reformas em geral de qualquer chuteira</p>
     <p>colagem, pintura, troca de travas em geral</p>
 </body>
-</html>
-
-
-
-        <div>
-            <h2>minha primeira venda</h2>
-            <p>class="primeira chuteira">Por: Weliton Kaik</
-             p>
-             <p>Boas-vindas a minha loja online de chuteiras! Aqui vou comparilha a atualização de novas chuteiras </p>
-             <button>❤️<span>0</span></button>
-             <button>👍🏾<span>0</span></button>
-
-        </div>
-
-
-    </main>
-</body>
-<script>
-    const botoes = document.querySelector("button");
-    botao.addEventListener("click", botaoClicado);
-    
-    botoes.forEach(function(botao){
-       botao.addEventListener("click", botaoClicado);
-       function botaoClicado() {
-       consol.log("fui clicado");
-       let texto = botao.queySelector("span");
-       if (curtiu === "false") {
-          texto.textContent++;
-          curtiu = true;
-        }else {
-        texto.textContwnt--;
-        curtiu = false
-       }   
-
-
-      }
-       
-    
-    
-      }
-    }
-)
-    
-
-
-   
-        console.log("fui clicado");
-        let texto = botao.querySelector("span");
-        texto.textContent++; 
-    }
-
-
-
-
-
-
-
-
-
-
-
-</script>
-
-</html>
-
-
-</script>
-
 </html>
