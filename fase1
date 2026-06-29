@@ -139,8 +139,8 @@
   </nav>
 
   <main>
-    <h2>Bem-vindo a minha loja CHUSTERLANDIA</h2>
-    <p>Aqui na minha loja online voce pode encontrar varias modificaceos de chuteira e restauramento</p>
+    <h2>Bem-vindo a minha loja  CHUSTERLANDIA</h2>
+    <p>Aqui na minha loja online voce pode encontrar varias modificaceos de chuteira e restalramento</p>
    
     <div class="galeria">
       <div class="card">
@@ -154,14 +154,14 @@
         <img src="https://images.unsplash.com/photo-1591768793355-74d04bb6608f?w=600&auto=format&fit=crop&quot; alt="Volvo FH branco arqueado">
         <div class="card-content">
           <h3>Volvo FH Arqueado</h3>
-          <p>Potência e estilo no grau</p>
+          <p>AS QUALIDADES NOS CHUTES VOCE ENCONTRA AQUI</p>
         </div>
       </div>
       <div class="card">
         <img src="https://images.unsplash.com/photo-1557223562-6c77ef16210f?w=600&auto=format&fit=crop&quot; alt="Encontro de caminhões arqueados">
         <div class="card-content">
           <h3>Eventos</h3>
-          <p>Cobertura dos maiores encontros</p>
+          <p>COBERTURAS DAS MAIORES VENDAS DA MINHA LOJA</p>
         </div>
       </div>
     </div>
